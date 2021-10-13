@@ -1,0 +1,8 @@
+prefix=/home/workspace/homeservicerobot/install
+
+Name: add_markers_for_rubic
+Description: Description of add_markers_for_rubic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
